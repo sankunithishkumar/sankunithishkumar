@@ -11,7 +11,7 @@ Aspiring Full Stack Developer | Java Developer |
 
 🚀 Interested in building scalable web applications
 
-📫 Reach me at: nithish156222@gmail.com
+📫 Reach me at: nithish15622@gmail.com
 
 ### 🛠️ Skills & Technologies
 
@@ -89,4 +89,4 @@ Seeking opportunities as a Software Developer / Application Developer where I ca
 
 ---
 
-⭐ "Continuous learning and consistent practice lead to success."
+⭐ "Continuous learning and consistent practice lead to success."#Sanku Nithish Kumar
