@@ -1,7 +1,7 @@
 
 ### 👨‍💻 About Me
 Hi 👋, I'm Sanku Nithish Kumar
-Aspiring Full Stack Developer | Java Developer | 
+Aspiring Full Stack Developer | Java Developer 
 
 🎓 B.Tech Graduate with a CGPA of 8.0
 
